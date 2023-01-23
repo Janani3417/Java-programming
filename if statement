@@ -1,0 +1,9 @@
+public class statement{
+public static void main(String args[]){
+int apple=100;
+int grape=60;
+if(apple<grape){
+System.out.println("apple is greater than grape");
+}
+}
+}
