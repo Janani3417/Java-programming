@@ -1,0 +1,15 @@
+#conditional statement
+public static void main(string args[]){
+int grade=3;
+if(grade=1){
+System.out.println("very good  grade");
+}
+else if(grade=2)
+{
+System.out.println("good grade");
+}
+else{
+System.out.println("nice grade");
+}
+}
+}
