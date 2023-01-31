@@ -30,3 +30,7 @@ if(condition){
 
             Else if statement means we are giving some condition.here we given grde=3 hereby it moves furthur until the 
  given condition specifies.
+
+**break statement:**
+
+break statement is used to terminate the code. where want to end.
