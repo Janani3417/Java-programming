@@ -34,3 +34,17 @@ if(condition){
 **break statement:**
 
 break statement is used to terminate the code. where want to end.
+
+
+
+ **METHODS IN JAVA**
+   
+   Here we see about method in java.Its also known
+as functions.By methods you can pass data that is known as parameters.
+The use of method is we can reuse the code.
+
+SYNTAX:
+    It should have a class,name of the method.  
+	
+	myMethod() It is the name of the method.
+	
